@@ -6,3 +6,10 @@ body {
 header {
   background-color: E6E6FA;
 }
+
+img.wallpaper {
+  display: block;
+  margin: 0 auto; 
+  max-width: 50%; 
+  height: auto; 
+}
